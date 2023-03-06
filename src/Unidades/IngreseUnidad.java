@@ -1,23 +1,22 @@
 package Unidades;
 
 public class IngreseUnidad {
+	public static void main(String[] args) {
+		
+	}
 	
-	private int dolarApeso = 1/380;
-	private int DollarPesoColombiano = 1/2500;
-	public int getDolarApeso() {
-		return dolarApeso;
-	}
-	public void setDolarApeso(int dolarApeso) {
-		this.dolarApeso = dolarApeso;
-	}
-	public int getDollarPesoColombiano() {
-		return DollarPesoColombiano;
-	}
-	public void setDollarPesoColombiano(int dollarPesoColombiano) {
-		DollarPesoColombiano = dollarPesoColombiano;
-	}
+	private double dolarApesoArg = 198.25;
+	private double dollarApesoColom = 4785.10;
+	private double dollarAeuro= 0.94;
+	
+	//private double celAfar = (5/9)*(unidades -32);
 
-	
+	public void dolarApesoArg() {
+		double dollarg = 198.25;
+		double resultadoarg;
+		resultadoarg = unidades / dollarg;
+		return ressultadoarg; 
+	}
 	
 	
 }
