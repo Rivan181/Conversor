@@ -4,10 +4,28 @@ package Unidades;
 public interface conversionMoneda{
 	
 	public void DollAr();
-	public void DollCol();
-	public void DollEur();
-	public void ArDoll();
-	public void ColDoll();
-	public void EurDoll();
+	
+	
+	void argGBP();
+	void GBParg();
+	void ArDoll();
+
+
+	void YENarg();
+
+
+	void argYEN();
+
+
+	void KRWarg();
+
+
+	void argKRW();
+
+
+	void EURarg();
+
+
+	void argEUR();
 
 }

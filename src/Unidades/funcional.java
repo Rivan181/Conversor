@@ -121,26 +121,6 @@ public class funcional extends padre implements conversorLongitudes, conversionT
 		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.dollarpesoArg) +" Pesos Argentinos");
 		
 	}
-
-
-	@Override
-	public void DollCol() {
-		ingreseValor();
-		unit = Double.parseDouble(unidades);
-		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.dollarApesoColom) +" Pesos Colombianos");
-		
-	}
-
-
-	@Override
-	public void DollEur() {
-		ingreseValor();
-		unit = Double.parseDouble(unidades);
-		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.dollarAeuro) +" Euros");
-		
-	}
-
-
 	@Override
 	public void ArDoll() {
 		ingreseValor();
@@ -151,19 +131,66 @@ public class funcional extends padre implements conversorLongitudes, conversionT
 
 
 	@Override
-	public void ColDoll() {
+	public void argGBP() {
 		ingreseValor();
 		unit = Double.parseDouble(unidades);
-		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.ApesoColomdollar) +" Dolares");
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.argGbp) +" Libras");
 		
 	}
 
 
 	@Override
-	public void EurDoll() {
+	public void GBParg() {
 		ingreseValor();
 		unit = Double.parseDouble(unidades);
-		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.Aeurodollar) +" Dolares");
+		JOptionPane.showMessageDialog(null, "Son $"+ (unit * padre.gbpArg) +" Pesos Argentinos");
+		
+	}
+
+
+	@Override
+	public void YENarg() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.yenArg) +" Pesos Argentinos");
+		
+	}
+
+
+	@Override
+	public void argYEN() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.argYen) +" Yenes japoneses");
+		
+	}
+	
+	@Override
+	public void KRWarg() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.krwArg) +" Won sul-coreano");
+		
+	}
+	@Override
+	public void argKRW() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.argKrw) +" Pesos Argentinos");
+		
+	}
+	@Override
+	public void EURarg() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.eurArg) +" Pesos Argentinos");
+		
+	}
+	@Override
+	public void argEUR() {
+		ingreseValor();
+		unit = Double.parseDouble(unidades);
+		JOptionPane.showMessageDialog(null, "La cantidad es $"+ (unit * padre.argEur) +" Euros");
 		
 	}
 

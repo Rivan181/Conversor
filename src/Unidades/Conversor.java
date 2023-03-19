@@ -33,24 +33,37 @@ public class Conversor extends funcional {
 		}
 		else if (padre.opcion.equals("Conversion de moneda")) {
 			fun.ingreseUnidades();
-			if (padre.dos.equals("Dolar a Peso Argentino")) {
-					fun.DollAr();
+			if (padre.dos.equals("Dolar a Peso argentino")) {
+				fun.DollAr();
 			}
-			else if (padre.dos.equals("Dolar a Peso Colombiano")) {
-					fun.DollCol();
+			else if (padre.dos.equals("Peso argentino a Dolar")) {
+				fun.ArDoll();
 			}
-			else if (padre.dos.equals("Dolar a Euro")) {
-					fun.DollEur();
+			else if (padre.dos.equals("Libras a peso argentino")) {
+				fun.GBParg();
 			}
-			else if (padre.dos.equals("Peso Argentino a Dolar")) {
-					fun.ArDoll();
+			else if (padre.dos.equals("Peso argentino  libras")) {
+				fun.argGBP();
 			}
-			else if (padre.dos.equals("Peso Colombiano a Dolar")) {
-					fun.ColDoll();
+			else if (padre.dos.equals("YEN a peso argentino")) {
+				fun.YENarg();
 			}
-			else if (padre.dos.equals("Euro a Dolar")) {
-					fun.EurDoll();
+			else if (padre.dos.equals("Peso argentino a YEN")) {
+				fun.argYEN();
 			}
+			else if (padre.dos.equals("Won sul-coreano a peso argentino")) {
+				fun.KRWarg();
+			}
+			else if (padre.dos.equals("Peso argentino a Won sul-coreano")) {
+				fun.argKRW();
+			}
+			else if (padre.dos.equals("Peso argentino a Euro")) {
+				fun.argEUR();
+			}
+			else if (padre.dos.equals("Euro a peso argentino")) {
+				fun.EURarg();
+			}
+			
 		}		
 		else if (opcion.equals("Conversion de longitud")) {
 			fun.ingreseUnidades();

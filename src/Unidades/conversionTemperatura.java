@@ -8,5 +8,6 @@ public interface conversionTemperatura {
 	public void KelCel();
 	public void CelFar();
 	public void posNeg();
+
 }
 
