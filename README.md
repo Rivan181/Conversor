@@ -26,8 +26,25 @@ Este Conversor nos ofrece la posibilidad de convertir y reconvertir entre distin
 <br>
 <br>
 <h2>Paso por paso</h2>
-
-<img src="1"
+<br>
+<h3>Seleccion de conversion</h3>
+<img src="https://github.com/Rivan181/Conversor/blob/48b5c942ee241d21ab8e349aa34568e6e5ae7c5c/imagenes/1.jpg"
      alt="seleccione conversion">
-
+<h3>Tipo</h3>
+<img src="https://github.com/Rivan181/Conversor/blob/48b5c942ee241d21ab8e349aa34568e6e5ae7c5c/imagenes/2.jpg"
+     alt="Tipo">
+<h3>Ejemplo entres diferentes divisas</h3>
+<img src="https://github.com/Rivan181/Conversor/blob/48b5c942ee241d21ab8e349aa34568e6e5ae7c5c/imagenes/3.png"
+     alt="Ejemplo entres diferentes divisas">
+<h3>Ingrese cantidad</h3>
+<img src="https://github.com/Rivan181/Conversor/blob/48b5c942ee241d21ab8e349aa34568e6e5ae7c5c/imagenes/4.jpg"
+     alt="Ingrese cantidad">
+<h3>Resultado</h3>
+<img src="https://github.com/Rivan181/Conversor/blob/48b5c942ee241d21ab8e349aa34568e6e5ae7c5c/imagenes/5.jpg"
+     alt="Resultado">
+<br>
+<br>
+<br>
+Para la realizacion del proyecto se utilizo la plataforma ECLIPSE con el lenguage de programacion JAVA 8.
+Proyecto realizado por Rodriguez Ivan (Rivan181)
 
