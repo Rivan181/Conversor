@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class funcional extends padre implements conversorLongitudes, conversionTemperatura, conversionMoneda{
 	
 	//CONSTRUCTOR
-	public funcional() {
+	public funcional()  {
 		
 	}
 	
