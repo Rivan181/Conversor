@@ -1,4 +1,4 @@
-# Conversor
+# Conversor Alura-Challenge
 <em>Podes convertir distintas monedas, temperaturas y longitudes en 3 simples pasos.</em>
 <p>El proyecto Conversor nace como desafio para los nuevos desarrolladores backend, los cuales estan avanzando en esta profecion y empujandolos a encontrar soluciones utilizando las buenas practicas aprendidas en los distintos cursos que los han llevado hasta aca. 
 Este Conversor nos ofrece la posibilidad de convertir y reconvertir entre distintas divisas, entre las tres unidades de temperatura mas utilizadas y logitudes. En tres simples pasos eres capaz de hacer la conversion que elijas una y otra vez hasta que decidas cerrar la aplicacion.</p>
@@ -45,6 +45,8 @@ Este Conversor nos ofrece la posibilidad de convertir y reconvertir entre distin
 <br>
 <br>
 <br>
-Para la realizacion del proyecto se utilizo la plataforma ECLIPSE con el lenguage de programacion JAVA 8.
-Proyecto realizado por Rodriguez Ivan (Rivan181)
-
+<p>Para la realizacion del proyecto se utilizo la plataforma ECLIPSE con el lenguage de programacion JAVA 8.</p>
+<p>Proyecto realizado por Rodriguez Ivan</p>
+<img src="https://github.com/Rivan181/Conversor/blob/497192657cf245419375db99f9014dd8ae3a2697/imagenes/foto-perfin-trees.jpeg" width = 70px heigth = 80px
+     alt="perfil">
+<h4>Rivan181</h4>
