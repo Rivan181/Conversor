@@ -27,7 +27,7 @@ Este Conversor nos ofrece la posibilidad de convertir y reconvertir entre distin
 <br>
 <h2>Paso por paso</h2>
 
-<img src="Desktop\challenge-Alura\Conversor\imagenes\1"
+<img src="1"
      alt="seleccione conversion">
 
 
